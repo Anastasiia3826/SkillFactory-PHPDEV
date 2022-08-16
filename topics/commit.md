@@ -4,3 +4,7 @@
 ```bash=
 git commit 
 ```
+
+*Пример*
+
+![git checkout](/pics/Commit.png)

@@ -7,3 +7,7 @@
 ```bash=
 git merge
 ```
+
+*Пример*
+
+![git checkout](/pics/Merge.png)

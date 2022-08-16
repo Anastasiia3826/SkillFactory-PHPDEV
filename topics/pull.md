@@ -5,3 +5,7 @@
 ```bash=
 git pull 
 ```
+
+*Пример*
+
+![git checkout](/pics/Pull.png)

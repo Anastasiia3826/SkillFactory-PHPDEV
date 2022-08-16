@@ -6,3 +6,7 @@
 ```bash=
 git rebase
 ```
+
+*Пример*
+
+![git checkout](/pics/Rebase.png)

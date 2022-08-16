@@ -4,3 +4,7 @@
 ```bash=
 gtt fetch
 ```
+
+*Пример*
+
+![git checkout](/pics/Checkout.png)

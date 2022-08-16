@@ -5,3 +5,7 @@
 ```bash=
 git mv
 ```
+
+*Пример*
+
+![git checkout](/pics/MV.png)

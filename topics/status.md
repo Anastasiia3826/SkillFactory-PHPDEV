@@ -5,3 +5,7 @@
 ```bash=
 git status
 ```
+
+*Пример*
+
+![git checkout](/pics/Status.png)

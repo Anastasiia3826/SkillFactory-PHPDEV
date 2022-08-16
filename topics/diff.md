@@ -7,3 +7,7 @@
 ```bash=
 git diff 
 ```
+
+*Пример*
+
+![git checkout](/pics/Diff.png)

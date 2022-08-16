@@ -6,53 +6,51 @@
 ---
 
 
-
 ###  **Содержание**:
 ---
 
+1.  Что такое Git? 
+
 #### Команды конфигурации 
 ---
-1.1 [git config](./topics/config)
+- [git config](./topics/config)
 
-1.2 [git add](./topics/add.md)
+- [git add](./topics/add.md)
 
-1.3 [git mv](./topics/mv.md)
+- [git mv](./topics/mv.md)
 
-1.4 [git rm](./topics/rm.md)
+- [git rm](./topics/rm.md)
 
-1.5 [git clean](./topics/clean.md)
+- [git clean](./topics/clean.md)
 
 ---
 #### Команды для работы с удаленной версией кода
 ---
-2.1 [git status](./topics/status.md)
+- [git status](./topics/status.md)
 
-2.2 [git fetch](./topics/fetch.md)
+- [git fetch](./topics/fetch.md)
 
-2.3 [git checkout](./topics/checkout.md)
+- [git checkout](./topics/checkout.md)
 
-2.4 [git pull](./topics/pull.md)
+- [git pull](./topics/pull.md)
 
 ---
 #### Команды для обновления версии
 ---
-3.1 [git push](./topics/push.md)
+- [git push](./topics/push.md)
 
-3.2 [git merge](./topics/merge.md)
+- [git merge](./topics/merge.md)
 
-3.3 [git diff](./topics/diff.md)
+- [git diff](./topics/diff.md)
 
 3.4 [git rebase](./topics/rebase.md)
 
 
 
+---
+**Info** [Использование markdown в этой инструкции](/topics/markdown%20usage.md)
 
-
-
-
-
-
-
+---
 
 
 ---

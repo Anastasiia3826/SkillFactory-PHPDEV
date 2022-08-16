@@ -9,3 +9,7 @@
 ```bash=
 git reset
 ```
+
+*Пример*
+
+![git checkout](/pics/Reset.png)

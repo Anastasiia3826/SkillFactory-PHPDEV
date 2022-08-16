@@ -7,3 +7,7 @@
 ```bash=
 git rm 
 ```
+
+*Пример*
+
+![git checkout](/pics/RM.png)

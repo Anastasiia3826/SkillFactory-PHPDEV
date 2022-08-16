@@ -5,3 +5,7 @@
 ```bash=
 git clean 
 ```
+
+*Пример*
+
+![git checkout](/pics/Clean.png)
