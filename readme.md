@@ -1,17 +1,18 @@
-## **Инструкция по работе с GIT**
+# **Инструкция по работе с GIT**
 
-### **License**:  [MIT](./license.md)
+### ***License***:  [MIT](./license.md)
+
+---
 
 ![git-logo](./assets/git-logo-1.png)
+
+---
+##  **Содержание**:
 ---
 
+1. [Что такое Git?](./topics/git.md) 
 
-###  **Содержание**:
----
-
-1.  [Что такое Git?] 
-
-2. [Команда git config](./topics/config)
+2. [Команда git config](./topics/config.md)
 
 3. [Команда git add](./topics/add.md)
 
@@ -44,8 +45,12 @@
 
 ---
 
+Ссылки на материалы, который использовались при написании этой инструкции: 
+- [git-scm.com](https://git-scm.com/docs/git-add)
+- [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/)
+- [Markdown Extended Syntax](https://www.markdownguide.org/extended-syntax/)
 
-
+---
 
 GIT logo by Mustafa Uysal - https://uysalmustafa.com/2016/11/05/deploying-from-git,
 license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)

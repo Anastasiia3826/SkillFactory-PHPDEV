@@ -5,9 +5,13 @@
 Она похожа на git add с тем лишь исключением, что она удаляет, а не добавляет файлы для следующего коммита.
 
 ```bash=
-git rm 
+
+git rm [-f | --force] [-n] [-r] [--cached] [--ignore-unmatch]
+	  [--quiet] [--pathspec-from-file=<file> [--pathspec-file-nul]]
+	  [--] [<pathspec>…​]
+      
 ```
 
-*Пример*
+<mark>***Пример***</mark>
 
 ![git checkout](/pics/RM.png)

@@ -15,6 +15,6 @@ $ git config --global user.email johndoe@example.com
 
 ```
 
-*Пример*
+<mark>***Пример***</mark>
 
 ![git config](/pics/Config.png)
