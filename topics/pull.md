@@ -8,6 +8,6 @@ git pull [<options>] [<repository> [<refspec>…​]]
 
 ```
 
-<mark>***Пример***</mark>
+``Пример``
 
-![git checkout](/pics/Pull.png)
+![git pull](/pics/Pull.png)

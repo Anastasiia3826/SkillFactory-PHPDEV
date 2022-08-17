@@ -1,6 +1,7 @@
  
 # Markdown Tips
 
+Ccылки на документацию: 
 - [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 - [Extended Syntax](https://www.markdownguide.org/extended-syntax/)
 
@@ -21,7 +22,7 @@
 
 My favorite search engine is [Duck Duck Go](https://duckduckgo.com)
 
- ## 3) Выделение Курсив
+ ## 3) Выделение и Курсив
 
 This text is ***really important***.
 
@@ -41,8 +42,22 @@ This text is ***really important***.
 - Third item
 - Fourth item 
 
-## 6) Выделение текста
 
-I need to highlight these <mark>very important words</mark>
+## 6) Изображения
+![Пример](/pics/Markdown.png)
+
+## 7) Список задач
+
+- [x] Добавить описание для git команд
+- [x] Изучить возможности Markdown
+- [x] Отправить работу на проверку
+
+
+
+## 6) Выделение текста
+<!--- Please not this is not supported in GitHub 
+(<mark>very important words</mark>) --->
+I need to highlight these ``very important words``.
+
 
 

@@ -12,6 +12,6 @@ git fetch --all [<options>]
 
 ```
 
-<mark>***Пример***</mark>
+``Пример``
 
 ![git checkout](/pics/Checkout.png)

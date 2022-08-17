@@ -13,6 +13,6 @@ git help [-c|--config]
 ```
 
 
-<mark>*Пример*</mark>
+``Пример``
 
 ![git help](/pics/Help.png)

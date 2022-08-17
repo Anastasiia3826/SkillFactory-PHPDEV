@@ -15,7 +15,6 @@ git checkout [-f|--ours|--theirs|-m|--conflict=<style>] [<tree-ish>] --pathspec-
 git checkout (-p|--patch) [<tree-ish>] [--] [<pathspec>…​]
 ```
 
-
-<mark>***Пример***</mark>
+``Пример``
 
 ![git checkout](/pics/Checkout.png)

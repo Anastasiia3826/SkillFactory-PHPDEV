@@ -45,7 +45,7 @@
 
 ---
 
-Ссылки на материалы, который использовались при написании этой инструкции: 
+Ссылки на материалы, которые использовались при написании этой инструкции: 
 - [git-scm.com](https://git-scm.com/docs/git-add)
 - [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 - [Markdown Extended Syntax](https://www.markdownguide.org/extended-syntax/)

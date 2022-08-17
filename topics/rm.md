@@ -9,9 +9,9 @@
 git rm [-f | --force] [-n] [-r] [--cached] [--ignore-unmatch]
 	  [--quiet] [--pathspec-from-file=<file> [--pathspec-file-nul]]
 	  [--] [<pathspec>…​]
-      
+
 ```
 
-<mark>***Пример***</mark>
+``Пример``
 
 ![git checkout](/pics/RM.png)

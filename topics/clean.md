@@ -9,6 +9,6 @@ git clean [-d] [-f] [-i] [-n] [-q] [-e <pattern>] [-x | -X] [--] <path>…​
 ```
 
 
-<mark>***Пример***</mark>
+``Пример``
 
 ![git checkout](/pics/Clean.png)

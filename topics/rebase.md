@@ -13,6 +13,6 @@ git rebase (--continue | --skip | --abort | --quit | --edit-todo | --show-curren
 
 ```
 
-<mark>***Пример***</mark>
+``Пример``
 
-![git checkout](/pics/Rebase.png)
+![git rebase](/pics/Rebase.png)

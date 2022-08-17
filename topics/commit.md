@@ -15,6 +15,6 @@ git commit [-a | --interactive | --patch] [-s] [-v] [-u<mode>] [--amend]
 
 ```
 
-<mark>***Пример***</mark>
+``Пример``
 
-![git checkout](/pics/Commit.png)
+![git commit](/pics/Commit.png)

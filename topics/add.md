@@ -13,7 +13,7 @@ git add [--verbose | -v] [--dry-run | -n] [--force | -f] [--interactive | -i] [-
 	  [--] [<pathspec>…​]
 
 ```
-<mark>***Пример***</mark>
+``Пример``
 
 ![git add](/pics/Add.png)
 

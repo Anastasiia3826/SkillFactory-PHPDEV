@@ -16,7 +16,7 @@ git merge (--continue | --abort | --quit)
 ```
 
 
-<mark>***Пример***</mark>
+``Пример``
 
 
 ![git checkout](/pics/Merge.png)

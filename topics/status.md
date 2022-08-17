@@ -8,6 +8,6 @@ git status [<options>…​] [--] [<pathspec>…​]
 
 ```
 
-<mark>***Пример***</mark>
+``Пример``
 
 ![git checkout](/pics/Status.png)

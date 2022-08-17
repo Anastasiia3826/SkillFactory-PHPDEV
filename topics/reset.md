@@ -15,6 +15,6 @@ git reset [--soft | --mixed [-N] | --hard | --merge | --keep] [-q] [<commit>]
 
 ```
 
-<mark>***Пример***</mark>
+``Пример``
 
 ![git checkout](/pics/Reset.png)

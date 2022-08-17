@@ -10,9 +10,9 @@ git push [--all | --mirror | --tags] [--follow-tags] [--atomic] [-n | --dry-run]
 	   [--[no-]signed|--signed=(true|false|if-asked)]
 	   [--force-with-lease[=<refname>[:<expect>]] [--force-if-includes]]
 	   [--no-verify] [<repository> [<refspec>…​]]
-       
+
 ```
 
-<mark>***Пример***</mark>
+``Пример``
 
 ![git checkout](/pics/Push.png)
