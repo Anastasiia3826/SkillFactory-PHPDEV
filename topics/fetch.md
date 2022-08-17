@@ -14,4 +14,4 @@ git fetch --all [<options>]
 
 ``Пример``
 
-![git checkout](/pics/Checkout.png)
+![git fetch](/pics/Fetch.png)

@@ -15,4 +15,4 @@ git push [--all | --mirror | --tags] [--follow-tags] [--atomic] [-n | --dry-run]
 
 ``Пример``
 
-![git checkout](/pics/Push.png)
+![git push](/pics/Push.png)

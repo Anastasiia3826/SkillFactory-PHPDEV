@@ -17,4 +17,4 @@ git diff [<options>] --no-index [--] <path> <path>
 
 ``Пример``
 
-![git checkout](/pics/Diff.png)
+![git diff](/pics/Diff.png)

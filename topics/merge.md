@@ -19,4 +19,4 @@ git merge (--continue | --abort | --quit)
 ``Пример``
 
 
-![git checkout](/pics/Merge.png)
+![git merge](/pics/Merge.png)

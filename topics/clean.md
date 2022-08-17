@@ -11,4 +11,4 @@ git clean [-d] [-f] [-i] [-n] [-q] [-e <pattern>] [-x | -X] [--] <path>…​
 
 ``Пример``
 
-![git checkout](/pics/Clean.png)
+![git clean](/pics/Clean.png)

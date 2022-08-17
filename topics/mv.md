@@ -11,4 +11,4 @@ git mv [-v] [-f] [-n] [-k] <source> ... <destination directory>
 
 ``Пример``
 
-![git checkout](/pics/MV.png)
+![git mv](/pics/MV.png)

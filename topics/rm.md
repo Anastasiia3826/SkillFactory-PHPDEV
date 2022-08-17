@@ -14,4 +14,4 @@ git rm [-f | --force] [-n] [-r] [--cached] [--ignore-unmatch]
 
 ``Пример``
 
-![git checkout](/pics/RM.png)
+![git RM](/pics/RM.png)

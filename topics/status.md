@@ -10,4 +10,4 @@ git status [<options>…​] [--] [<pathspec>…​]
 
 ``Пример``
 
-![git checkout](/pics/Status.png)
+![git status](/pics/Status.png)
