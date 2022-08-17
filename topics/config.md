@@ -1,4 +1,4 @@
-## git config
+# git config
 
 **git config** - удобная функция, которая используется для настройки значений конфигурации Git на глобальном и локальном уровнях проекта. 
 
@@ -17,4 +17,4 @@ $ git config --global user.email johndoe@example.com
 
 *Пример*
 
-![git checkout](/pics/Config.png)
+![git config](/pics/Config.png)

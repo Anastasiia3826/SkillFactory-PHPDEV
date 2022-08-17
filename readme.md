@@ -9,51 +9,43 @@
 ###  **Содержание**:
 ---
 
-1.  Что такое Git? 
+1.  [Что такое Git?] 
 
-#### Команды конфигурации 
----
-- [git config](./topics/config)
+2. [Команда git config](./topics/config)
 
-- [git add](./topics/add.md)
+3. [Команда git add](./topics/add.md)
 
-- [git mv](./topics/mv.md)
+4. [Команда git mv](./topics/mv.md)
 
-- [git rm](./topics/rm.md)
+5. [Команда git rm](./topics/rm.md)
 
-- [git clean](./topics/clean.md)
+6. [Команда git clean](./topics/clean.md)
 
----
-#### Команды для работы с удаленной версией кода
----
-- [git status](./topics/status.md)
+7. [Команда git status](./topics/status.md)
 
-- [git fetch](./topics/fetch.md)
+8. [Команда git fetch](./topics/fetch.md)
 
-- [git checkout](./topics/checkout.md)
+9. [Команда git checkout](./topics/checkout.md)
 
-- [git pull](./topics/pull.md)
+10. [Команда git pull](./topics/pull.md)
 
----
-#### Команды для обновления версии
----
-- [git push](./topics/push.md)
+11. [Команда git push](./topics/push.md)
 
-- [git merge](./topics/merge.md)
+12. [Команда git merge](./topics/merge.md)
 
-- [git diff](./topics/diff.md)
+13. [Команда git diff](./topics/diff.md)
 
-3.4 [git rebase](./topics/rebase.md)
-
+14. [Команда git rebase](./topics/rebase.md)
 
 
 ---
+
 **Info** [Использование markdown в этой инструкции](/topics/markdown%20usage.md)
 
 ---
 
 
----
+
 
 GIT logo by Mustafa Uysal - https://uysalmustafa.com/2016/11/05/deploying-from-git,
 license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)

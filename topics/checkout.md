@@ -1,4 +1,4 @@
-## git сheckout
+# git сheckout
 
 **git checkout *[ветка]*** - позволяет перемещаться между ветками, созданными командой git branch. 
 
